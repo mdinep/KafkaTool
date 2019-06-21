@@ -1,5 +1,11 @@
 #!/usr/bin/env python
 
+#################################################################################
+#Linux Kafka Tool v0.1 #
+#Written by Matthew Dinep #
+#November, 12th, 2018 #
+#################################################################################
+
 import os,sys
 import time
 import getpass
